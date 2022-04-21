@@ -344,6 +344,39 @@ $ git commit -a -m "Update README.md"
 **previously been staged**. In other words, the _first_ time you stage a file in
 your project, you must do so explicitly using `git add`.
 
+## Exercise
+
+Now, let's practice what we've learned. Before starting, make sure you navigate
+out of the repo we created in this lesson by typing the following:
+
+```console.log
+$ cd ..
+```
+
+**Important**: Any time you initialize a new repo it's important to make sure
+you aren't already inside a directory that is itself a repo — it will cause
+problems down the road!
+
+### Instructions
+
+Complete the following steps. As you're working, be sure to run `git status`
+often.
+
+1. Create a new directory called `todos` to contain a new project.
+2. Navigate into the new directory.
+3. Initialize the new directory as a Git repo.
+4. Create a new file inside the folder called `todo-list.txt`. You can either do
+   this from the terminal or in your text editor.
+5. Stage your changes using the `add` command, then commit them with the commit
+   message `initial commit`.
+6. Open the `todo-list.txt` file in your text editor, and add a title and a few
+   todo's of your choosing.
+7. Return to the terminal, then add and commit your changes with the commit
+   message `added todos`.
+
+That's it! Before you know it, the steps we've learned in this lesson will be so
+natural you won't even need to think about them — just keep practicing!
+
 ## Conclusion
 
 In this lesson, we've learned the basics of using Git to track a directory.
