@@ -25,7 +25,7 @@ The process is outlined in this diagram:
 
 ![Basic git workflow](https://res.cloudinary.com/practicaldev/image/fetch/s--Si7ksd-d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AdiRLm1S5hkVoh5qeArND0Q.png)
 
-Source: https://dev.to/sublimegeek/git-staging-area-explained-like-im-five-1anh"
+Source: https://dev.to/sublimegeek/git-staging-area-explained-like-im-five-1anh
 
 The "working directory" is what we call our project folder once we've created it
 and initialized it as a Git repository. From there, we can _add_ files to the
