@@ -377,6 +377,12 @@ often.
 That's it! Before you know it, the steps we've learned in this lesson will be so
 natural you won't even need to think about them — just keep practicing!
 
+## Check for Understanding
+
+Before moving on to the next lesson, check for your understanding of this
+material by describing in your own words the three steps of the Git workflow
+used to track and save changes in our work.
+
 ## Conclusion
 
 In this lesson, we've learned the basics of using Git to track a directory.
