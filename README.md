@@ -313,9 +313,11 @@ The workflow you've learned in this lesson is one developers use over and over
 (and over) when using Git. As a result, Git has created some shortcuts we can
 use.
 
+> You may have wondered why every directory you look at has both `.` and `..`. In the file system, these are used to refer to a specific level of the directory. You likely know that `..` refers to the parent directory of your current directory, but did you know that `.` simply refers to the directory you are in currently? This may become more apparent using the following shortcut.
+
 If you're working in a project that has multiple files and you want to stage all
 of the files that have been changed since the last commit, you can use `.` in
-the `git add` command instead of the file name:
+the `git add` command instead of the file name. This tells Git to add all files changed in the current directory:
 
 ```console
 $ git add .
