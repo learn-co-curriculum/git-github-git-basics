@@ -155,7 +155,7 @@ nothing added to commit but untracked files present (use `git add` to track)
 
 Git confirms that our `README.md` has been created, but note that it's listed as
 **untracked**. In order for Git to keep track of the changes we make to our
-`README.MD` file, we need to tell Git to track our file. So let's do that!
+`README.md` file, we need to tell Git to track our file. So let's do that!
 
 > **Remember**: Whenever you want to check the status of your Git repository —
 > which you will often — type `git status`.
