@@ -402,4 +402,4 @@ code with other developers.
 
 ## Resources
 
-- [Git Basics at git-scm.com](https://git-scm.com/book/en/v1/Git-Basics)
+- [Git Basics at git-scm.com](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
